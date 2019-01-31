@@ -96,7 +96,7 @@ namespace Advanced_Lesson_2_Inheritance
                 SolidBrush drawBrush = new SolidBrush(Color.Black);
 
                 // Create point for upper-left corner of drawing.
-                float x = 150.0F;
+                float x = 850.0F;
                 float y = 50.0F;
 
                 // Set format of string.
